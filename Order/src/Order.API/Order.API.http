@@ -1,0 +1,6 @@
+@Order.API_HostAddress = http://localhost:5000
+
+GET {{Order.API_HostAddress}}/api/v1/orders
+Accept: application/json
+
+###
